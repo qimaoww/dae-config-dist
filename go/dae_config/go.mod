@@ -1,4 +1,4 @@
-module github.com/daeuniverse/dae-config-dist/go/dae_config
+module github.com/qimaoww/dae-config-dist/go/dae_config
 
 go 1.20
 
